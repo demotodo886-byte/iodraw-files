@@ -226,8 +226,8 @@
             <mxPoint x="1380" y="864" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d8qJ3IKAMibPuVrXnsNd-116" value="&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;Sends an HTTP GET request to the Cloud endpoint to fetch the FeatureList&lt;/div&gt;&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;1&quot; data-zone-id=&quot;0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;2&quot; data-zone-id=&quot;0&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="910" y="824" width="580" height="30" as="geometry" />
+        <mxCell id="d8qJ3IKAMibPuVrXnsNd-116" value="&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;Sends an HTTP GET request to the &lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;SentinelCloud&lt;/span&gt; endpoint to fetch the FeatureList&lt;/div&gt;&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;1&quot; data-zone-id=&quot;0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;2&quot; data-zone-id=&quot;0&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="824" width="650" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-122" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
