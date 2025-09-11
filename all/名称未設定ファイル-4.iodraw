@@ -246,7 +246,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-130" value="&lt;span style=&quot;font-family: Verdana; font-size: 14px; font-weight: 700; white-space: pre;&quot;&gt;SHIMANO WEB&lt;/span&gt;&lt;span style=&quot;font-family: Verdana; font-size: 14px; font-weight: 700; white-space: pre;&quot;&gt;返回&lt;/span&gt;&lt;span style=&quot;font-family: Verdana; font-size: 14px; font-weight: 700; white-space: pre;&quot;&gt;FeatureList&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="900" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="910" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
