@@ -140,7 +140,7 @@
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-80" value="许可数据存在" style="dashed=0;html=1;rounded=1;strokeColor=#008364;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#008364" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="-280" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="d8qJ3IKAMibPuVrXnsNd-82" value="许可数据存在" style="dashed=0;html=1;rounded=1;strokeColor=#FF0000;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#008364" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="d8qJ3IKAMibPuVrXnsNd-82" value="许可数据存在" style="dashed=0;html=1;rounded=1;strokeColor=#FFFF66;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#008364" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="265" y="-180" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
