@@ -119,11 +119,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d8qJ3IKAMibPuVrXnsNd-75" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d8qJ3IKAMibPuVrXnsNd-70">
-          <mxGeometry x="-0.3091" y="2" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-240" y="370" width="910" height="300" as="geometry" />
         </mxCell>
@@ -134,7 +129,7 @@
           <mxGeometry x="-240" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-74" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;验证本地 FeatureList.expired 或 FeatureList.licenseInfo 文件中的 expirationDateTime 字段信息&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="240" width="530" height="30" as="geometry" />
+          <mxGeometry x="260" y="235" width="530" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
