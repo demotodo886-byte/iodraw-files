@@ -259,7 +259,7 @@
           <mxGeometry x="-245.5" y="1139" width="136" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-139" value="Invalid License Data" style="dashed=0;html=1;rounded=1;strokeColor=#d79b00;fontSize=13;align=center;fontStyle=1;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-245" y="1250" width="136" height="30" as="geometry" />
+          <mxGeometry x="-245" y="1250" width="155" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
