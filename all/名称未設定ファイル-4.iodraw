@@ -128,7 +128,7 @@
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-73" value="alt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=17;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-240" y="370" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d8qJ3IKAMibPuVrXnsNd-74" value="&lt;div style=&quot;font-size: 13px;&quot; data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot; class=&quot;text-only&quot;&gt;验证本地 FeatureList.expired 或 FeatureList.licenseInfo 文件中的 expirationDateTime 字段信息是否有效&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="d8qJ3IKAMibPuVrXnsNd-74" value="&lt;div style=&quot;font-size: 15px;&quot; data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 15px;&quot; class=&quot;text-only&quot;&gt;验证本地 FeatureList.expired 或 FeatureList.licenseInfo 文件中的 expirationDateTime 字段信息是否有效&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fontSize=15;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="232.5" width="580" height="35" as="geometry" />
         </mxCell>
       </root>
