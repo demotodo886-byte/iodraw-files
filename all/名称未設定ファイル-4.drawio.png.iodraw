@@ -209,7 +209,7 @@
           <mxGeometry x="-100" y="1151" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-112" value="&lt;span style=&quot;font-family: Verdana; white-space: pre;&quot;&gt;SHIMANO Mobile SDK&lt;/span&gt;验证本地许可数据无效的场合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-110" y="1253" width="360" height="30" as="geometry" />
+          <mxGeometry x="-110" y="1254" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-113" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -244,7 +244,7 @@
             <mxPoint x="260" y="911" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d8qJ3IKAMibPuVrXnsNd-130" value="&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;SHIMANO WEB&lt;/span&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;返回&lt;/span&gt;&lt;span style=&quot;font-size: 13px; white-space: pre;&quot;&gt;FeatureList&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="d8qJ3IKAMibPuVrXnsNd-130" value="&lt;span style=&quot;white-space: pre;&quot;&gt;SHIMANO WEB responds with FeatureList&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="921" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-131" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
