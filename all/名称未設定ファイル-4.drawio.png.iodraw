@@ -209,7 +209,7 @@
           <mxGeometry x="-100" y="1151" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-112" value="&lt;span style=&quot;font-family: Verdana; white-space: pre;&quot;&gt;SHIMANO Mobile SDK&lt;/span&gt;验证本地许可数据无效的场合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-110" y="1256" width="360" height="30" as="geometry" />
+          <mxGeometry x="-110" y="1260" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-113" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
