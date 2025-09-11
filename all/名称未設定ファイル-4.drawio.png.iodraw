@@ -75,8 +75,8 @@
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-50" value="" style="endArrow=none;html=1;rounded=0;exitX=0.54;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.577;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1383.7999999999993" y="38.460000000000036" as="sourcePoint" />
-            <mxPoint x="1381.94" y="1521.0199999999995" as="targetPoint" />
+            <mxPoint x="1382.7999999999993" y="38.460000000000036" as="sourcePoint" />
+            <mxPoint x="1380.94" y="1521.0199999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-51" value="" style="endArrow=none;html=1;rounded=0;exitX=0.437;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.421;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d8qJ3IKAMibPuVrXnsNd-39" target="d8qJ3IKAMibPuVrXnsNd-42">
@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-116" value="&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;Sends an HTTP GET request to the &lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;SentinelCloud&lt;/span&gt; endpoint to fetch the FeatureList&lt;/div&gt;&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;1&quot; data-zone-id=&quot;0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;2&quot; data-zone-id=&quot;0&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="910" y="824" width="650" height="30" as="geometry" />
+          <mxGeometry x="860" y="824" width="650" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-122" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
