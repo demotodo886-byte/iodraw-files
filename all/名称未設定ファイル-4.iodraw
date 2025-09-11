@@ -23,7 +23,7 @@
           <mxGeometry x="1060" y="-21.25" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-26" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=14;image=img/lib/azure2/other/App_Compliance_Automation.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="632.5" width="48.1" height="35" as="geometry" />
+          <mxGeometry x="630" y="630" width="48.1" height="35" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.certificate;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1090" y="-12.5" width="50" height="40" as="geometry" />
