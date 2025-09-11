@@ -106,6 +106,9 @@
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-64" value="&lt;div data-lark-html-role=&quot;root&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; font-size: 13px;&quot; class=&quot;text-only&quot;&gt;读取本地许可数据&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="265" y="98" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="d8qJ3IKAMibPuVrXnsNd-65" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
