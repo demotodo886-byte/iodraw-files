@@ -171,9 +171,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-102" value="SDK验证本地许可数据有效的场合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-50" y="460" width="210" height="30" as="geometry" />
+          <mxGeometry x="-60" y="450" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d8qJ3IKAMibPuVrXnsNd-103" value="SDK验证本地许可数据有效的场合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="d8qJ3IKAMibPuVrXnsNd-103" value="SDK验证本地许可数据无效的场合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-60" y="555" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
