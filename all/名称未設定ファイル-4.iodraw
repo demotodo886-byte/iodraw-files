@@ -184,7 +184,7 @@
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-105" value="alt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=17;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-245" y="1028" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d8qJ3IKAMibPuVrXnsNd-106" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=3;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="d8qJ3IKAMibPuVrXnsNd-106" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=3;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffff88;strokeColor=#3e3d37;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-245" y="1178" as="sourcePoint" />
             <mxPoint x="665" y="1178" as="targetPoint" />
