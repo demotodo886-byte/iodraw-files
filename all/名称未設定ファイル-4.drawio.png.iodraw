@@ -115,12 +115,12 @@
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-70" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="290" as="sourcePoint" />
-            <mxPoint x="260" y="333" as="targetPoint" />
+            <mxPoint x="260" y="317" as="sourcePoint" />
+            <mxPoint x="260" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="414" y="290" />
-              <mxPoint x="414" y="333" />
-              <mxPoint x="340" y="333" />
+              <mxPoint x="414" y="317" />
+              <mxPoint x="414" y="360" />
+              <mxPoint x="340" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -131,7 +131,7 @@
           <mxGeometry x="-240" y="393" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-74" value="&lt;div data-lark-html-role=&quot;root&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;strong&gt;Check if the expirationDateTime in the local FeatureList.expired or FeatureList.licenseInfo file is valid&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fontSize=13;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="271" y="254" width="580" height="35" as="geometry" />
+          <mxGeometry x="271" y="255" width="580" height="35" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-77" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=4;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffcc99;strokeColor=#FF8000;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
