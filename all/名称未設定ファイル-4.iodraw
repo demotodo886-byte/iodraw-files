@@ -203,7 +203,7 @@
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-110" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fillColor=#ffcc99;strokeColor=#36393d;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="1095" as="sourcePoint" />
-            <mxPoint x="-165" y="1095" as="targetPoint" />
+            <mxPoint x="-160" y="1095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-111" value="SDK验证本地许可数据有效的场合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
