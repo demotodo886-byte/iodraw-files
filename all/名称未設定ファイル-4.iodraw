@@ -134,7 +134,7 @@
           <mxGeometry x="-240" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-74" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;验证本地 FeatureList.expired 或 FeatureList.licenseInfo 文件中的 expirationDateTime 字段信息&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="240" width="530" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
