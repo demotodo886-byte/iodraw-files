@@ -227,8 +227,8 @@
             <mxPoint x="1380" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d8qJ3IKAMibPuVrXnsNd-116" value="发送" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="840" width="60" height="30" as="geometry" />
+        <mxCell id="d8qJ3IKAMibPuVrXnsNd-116" value="发送&lt;span style=&quot;font-size: 14px; font-weight: 700; white-space: pre;&quot;&gt;SentinelCloud&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="940" y="840" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
