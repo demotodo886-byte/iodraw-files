@@ -110,8 +110,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d8qJ3IKAMibPuVrXnsNd-64" value="&lt;div data-lark-html-role=&quot;root&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;Read local license data&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="98" width="180" height="30" as="geometry" />
+        <mxCell id="d8qJ3IKAMibPuVrXnsNd-64" value="&lt;div data-lark-html-role=&quot;root&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; font-size: 13px;&quot; class=&quot;text-only&quot;&gt;读取本地许可数据&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="98" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
