@@ -219,7 +219,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-114" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;SHIMANO Mobile SDK 携带setup()中提供信息向 SHIMANO WEB 请求 &lt;/span&gt;&lt;span style=&quot;font-size: 15px; font-weight: 700; white-space: pre; background-color: initial;&quot;&gt;FeatureList&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="790" width="60" height="30" as="geometry" />
+          <mxGeometry x="477" y="790" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
