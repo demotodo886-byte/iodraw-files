@@ -137,12 +137,6 @@
             <mxPoint x="310" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d8qJ3IKAMibPuVrXnsNd-78" value="Label" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="200" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="d8qJ3IKAMibPuVrXnsNd-79" value="" style="triangle;html=1;whiteSpace=wrap;" vertex="1" parent="d8qJ3IKAMibPuVrXnsNd-78">
-          <mxGeometry x="20" y="20" width="20" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
