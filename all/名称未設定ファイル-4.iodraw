@@ -50,7 +50,10 @@
           <mxGeometry x="560" y="150" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-39" value="&lt;div data-lark-html-role=&quot;root&quot; style=&quot;margin-left: 4px; padding-left: 50px; font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); white-space: pre;&quot;&gt;APP&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-290" y="-21.25" width="140" height="60" as="geometry" />
+          <mxGeometry x="-220" y="-22.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d8qJ3IKAMibPuVrXnsNd-41" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.apps2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-200" y="190" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
