@@ -140,7 +140,12 @@
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-80" value="许可数据存在" style="dashed=0;html=1;rounded=1;strokeColor=#10739e;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fillColor=#b1ddf0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="-280" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="d8qJ3IKAMibPuVrXnsNd-82" value="&lt;font color=&quot;#ffff33&quot;&gt;许可数据存在&lt;/font&gt;" style="dashed=0;html=1;rounded=1;strokeColor=#10739e;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fillColor=#b1ddf0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="d8qJ3IKAMibPuVrXnsNd-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d8qJ3IKAMibPuVrXnsNd-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d8qJ3IKAMibPuVrXnsNd-82" value="许可数据存在" style="dashed=0;html=1;rounded=1;strokeColor=#10739e;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fillColor=#b1ddf0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="265" y="-180" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
