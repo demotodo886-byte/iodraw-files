@@ -50,7 +50,10 @@
           <mxGeometry x="380" y="635" width="47.23" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-36" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.app;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="450" width="50" height="50" as="geometry" />
+          <mxGeometry x="630" y="450" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d8qJ3IKAMibPuVrXnsNd-37" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.apps;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="450" width="34.199999999999996" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
