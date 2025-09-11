@@ -49,8 +49,8 @@
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-34" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/preview/Static_Apps.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="635" width="47.23" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="d8qJ3IKAMibPuVrXnsNd-35" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="450" width="34" height="50" as="geometry" />
+        <mxCell id="d8qJ3IKAMibPuVrXnsNd-36" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.app;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="450" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
