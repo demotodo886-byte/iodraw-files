@@ -113,25 +113,11 @@
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-64" value="&lt;div data-lark-html-role=&quot;root&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; font-size: 13px;&quot; class=&quot;text-only&quot;&gt;读取本地许可数据&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="265" y="98" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d8qJ3IKAMibPuVrXnsNd-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="287" as="sourcePoint" />
-            <mxPoint x="260" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="414" y="287" />
-              <mxPoint x="414" y="330" />
-              <mxPoint x="340" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-72" value="alt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=17;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-260" y="230" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-73" value="alt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=17;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-240" y="393" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d8qJ3IKAMibPuVrXnsNd-74" value="&lt;div style=&quot;font-size: 15px;&quot; data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;验证本地 FeatureList.expired 或 FeatureList.licenseInfo &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;文件中的 expirationDateTime 字段信息是否有效&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fontSize=14;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="240" width="580" height="35" as="geometry" />
         </mxCell>
         <mxCell id="d8qJ3IKAMibPuVrXnsNd-77" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=3;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
