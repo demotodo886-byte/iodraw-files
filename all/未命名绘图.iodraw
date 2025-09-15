@@ -139,8 +139,8 @@
             <mxPoint x="312.9699999999998" y="585.867" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-53" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="395" y="290" width="60" height="30" as="geometry" />
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-53" value="此处有链接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="395" y="290" width="65" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
