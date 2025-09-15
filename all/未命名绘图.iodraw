@@ -179,7 +179,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-67" value="此处有链接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="402.5" y="380" width="65" height="30" as="geometry" />
+          <mxGeometry x="385" y="180" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-68" value="此处有链接，整个方块加颜色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="810" width="65" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
