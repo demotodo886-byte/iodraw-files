@@ -97,7 +97,7 @@
         <mxCell id="p7pOAciyIbtbn8RwvwOe-38" value="NOT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-39" value="YES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-40" value="UNLOCK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -189,6 +189,9 @@
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-70" value="此处有链接，整个方块加颜色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="1340" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-71" value="此处有链接，整个方块加颜色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="1350" width="65" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
