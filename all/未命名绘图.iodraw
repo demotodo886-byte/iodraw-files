@@ -191,7 +191,10 @@
           <mxGeometry x="450" y="1340" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-71" value="此处有链接，整个方块加颜色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="1350" width="65" height="30" as="geometry" />
+          <mxGeometry x="110" y="950" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-72" value="此处有链接，整个方块加颜色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="600" width="65" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
