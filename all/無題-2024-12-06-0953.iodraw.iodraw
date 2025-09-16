@@ -107,6 +107,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="1220" as="sourcePoint" />
             <mxPoint x="570" y="1160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="1105" />
+              <mxPoint x="570" y="1330" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p7pOAciyIbtbn8RwvwOe-28" edge="1">
@@ -157,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-67" value="调用start()此处有链接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="385" y="180" width="65" height="30" as="geometry" />
+          <mxGeometry x="392" y="180" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-68" value="此处有链接，整个方块加颜色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="1200" width="65" height="30" as="geometry" />
