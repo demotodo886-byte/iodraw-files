@@ -142,16 +142,16 @@
         <mxCell id="p7pOAciyIbtbn8RwvwOe-54" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="425" y="435" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-57" value="status==NOT_SYC此处有链接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-57" value="status==NOT_SYC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="392.5" y="1139" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-58" value="onchanger==SYC此处有链接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-58" value="onchanger==SYC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="405" y="1260" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-59" value="status==SYC此处有链接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-59" value="status==SYC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="580" y="1205" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-65" value="POWER_OFF此处有链接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-65" value="POWER_OFF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-310" y="660" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p7pOAciyIbtbn8RwvwOe-5" edge="1">
@@ -160,7 +160,7 @@
             <mxPoint x="385" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-67" value="调用start()此处有链接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-67" value="调用start()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="385" y="180" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-68" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -181,13 +181,13 @@
         <mxCell id="p7pOAciyIbtbn8RwvwOe-73" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-10" y="230" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-76" value="onchanger==UNLOCK此处有链接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-76" value="onchanger==UNLOCK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="415" y="880" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-77" value="status==UNLOCK此处有链接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-77" value="status==UNLOCK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="580" y="790" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-79" value="status==LOCK此处有链接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-79" value="status==LOCK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="392.5" y="770" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-80" value="onchanger==POWER_ON" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -196,7 +196,7 @@
         <mxCell id="p7pOAciyIbtbn8RwvwOe-82" value="onchanger==POWER_OFF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="505" y="520" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-83" value="status==POWER_OFF此处有链接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-83" value="status==POWER_OFF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="370" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p7pOAciyIbtbn8RwvwOe-6" target="p7pOAciyIbtbn8RwvwOe-5" edge="1">
