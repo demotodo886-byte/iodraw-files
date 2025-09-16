@@ -67,7 +67,7 @@
             <mxPoint x="385" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-10" y="930" width="830" height="450" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p7pOAciyIbtbn8RwvwOe-25" target="p7pOAciyIbtbn8RwvwOe-28" edge="1">
@@ -98,7 +98,7 @@
           <mxGeometry x="325" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="SYC" id="p7pOAciyIbtbn8RwvwOe-39">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;movable=1;backgroundOutline=0;glass=0;fillColor=#333333;strokeColor=#d6b656;fillStyle=dashed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;movable=1;backgroundOutline=0;glass=0;fillColor=none;strokeColor=#d6b656;fillStyle=dashed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="325" y="1300" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
