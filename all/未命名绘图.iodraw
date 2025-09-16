@@ -97,7 +97,7 @@
         <mxCell id="p7pOAciyIbtbn8RwvwOe-38" value="NOT_SYC" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="325" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="SYC" link="http://127.0.0.1:5500/connect_flow.html" id="p7pOAciyIbtbn8RwvwOe-39">
+        <UserObject label="SYC" id="p7pOAciyIbtbn8RwvwOe-39">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="325" y="1300" width="120" height="60" as="geometry" />
           </mxCell>
