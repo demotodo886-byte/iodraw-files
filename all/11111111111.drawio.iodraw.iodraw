@@ -16,13 +16,8 @@
         <mxCell id="p7pOAciyIbtbn8RwvwOe-5" value="DISCONNECTED" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=4;fontSize=15;strokeWidth=3;textShadow=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontFamily=Verdana;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="303.5" y="110" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-MAZSQyrFbKn_bs30kqK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p7pOAciyIbtbn8RwvwOe-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1000" y="849.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-6" value="" style="whiteSpace=wrap;html=1;fontStyle=4;fontSize=15;strokeWidth=3;textShadow=0;fontFamily=Verdana;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-79" y="220" width="1040" height="1260" as="geometry" />
+          <mxGeometry x="-79" y="220" width="1219" height="1260" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-8" value="CONNECTED" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#66B2FF;fontStyle=4;fontSize=15;strokeWidth=3;textShadow=0;fontFamily=Verdana;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-79" y="220" width="120" height="60" as="geometry" />
