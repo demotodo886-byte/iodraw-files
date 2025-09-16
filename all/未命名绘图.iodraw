@@ -97,9 +97,11 @@
         <mxCell id="p7pOAciyIbtbn8RwvwOe-38" value="NOT_SYC" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="325" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-39" value="SYC" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="325" y="1300" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="SYC" link="http://127.0.0.1:5500/connect_flow.html" id="p7pOAciyIbtbn8RwvwOe-39">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="325" y="1300" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-40" value="UNLOCK" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-10" y="930" width="120" height="60" as="geometry" />
         </mxCell>
@@ -191,7 +193,7 @@
           <mxGeometry x="392.5" y="770" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-80" value="onchanger==POWER_ON" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="210" y="520" width="65" height="30" as="geometry" />
+          <mxGeometry x="200" y="530" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-82" value="onchanger==POWER_OFF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="515" y="530" width="65" height="30" as="geometry" />
