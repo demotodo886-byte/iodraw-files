@@ -17,7 +17,7 @@
           <mxGeometry x="303.5" y="110" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-6" value="" style="whiteSpace=wrap;html=1;fontStyle=4;fontSize=15;strokeWidth=3;textShadow=0;fontFamily=Verdana;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-79" y="220" width="1040" height="1260" as="geometry" />
+          <mxGeometry x="-79" y="220" width="1249" height="1260" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-8" value="CONNECTED" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#66B2FF;fontStyle=4;fontSize=15;strokeWidth=3;textShadow=0;fontFamily=Verdana;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-79" y="220" width="120" height="60" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry x="426" y="435" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-65" value="(disconnect() or OS BLE OFF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=15;strokeWidth=3;textShadow=0;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontFamily=Verdana;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-380" y="660" width="261" height="50" as="geometry" />
+          <mxGeometry x="-480" y="670" width="261" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=4;fontSize=15;flowAnimation=1;strokeWidth=3;textShadow=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontFamily=Verdana;spacingLeft=50;spacingRight=8;targetPerimeterSpacing=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" source="p7pOAciyIbtbn8RwvwOe-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
