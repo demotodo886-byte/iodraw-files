@@ -279,8 +279,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X-2yTU9rsbHxQy3JTUIN-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-93" y="420" width="1068" height="1068" as="geometry" />
+        <mxCell id="X-2yTU9rsbHxQy3JTUIN-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-93" y="10" width="1068" height="1478" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
