@@ -162,9 +162,11 @@
             <mxPoint x="386" y="216" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-67" value="connect()" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#BD7000;fillColor=#f0a30a;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="411" y="180" width="133.44" height="30" as="geometry" />
-        </mxCell>
+        <UserObject label="connect()" link="./-b-l-e-device/connect.html" id="p7pOAciyIbtbn8RwvwOe-67">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#BD7000;fillColor=#f0a30a;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="411" y="180" width="133.44" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-68" value="" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="451" y="1200" width="65" height="30" as="geometry" />
         </mxCell>
