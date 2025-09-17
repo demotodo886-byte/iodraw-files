@@ -168,7 +168,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="disconnect() or OS BLE OFF" link="./-b-l-e-device/disconnect.html" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-65">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Tahoma;labelBackgroundColor=none;html=1;flipV=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="-380" y="660" width="261" height="50" as="geometry" />
           </mxCell>
         </UserObject>
