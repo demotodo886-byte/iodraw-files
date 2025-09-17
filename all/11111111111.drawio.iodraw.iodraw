@@ -204,9 +204,11 @@
         <mxCell id="p7pOAciyIbtbn8RwvwOe-82" value="onStateChanged() -&amp;gt; POWER_OFF" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="500" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-83" value="CurrentDeviceStatus == POWER_OFF" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#36393d;fillColor=#cce5ff;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="70" y="370" width="300" height="30" as="geometry" />
-        </mxCell>
+        <UserObject label="CurrentDeviceStatus == POWER_OFF" link="./-device-power-status/-p-o-w-e-r_-o-f-f/index.html" id="p7pOAciyIbtbn8RwvwOe-83">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#36393d;fillColor=#cce5ff;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="70" y="370" width="300" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-84" value="" style="endArrow=classic;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=4;fontSize=17;flowAnimation=1;strokeWidth=3;curved=0;textShadow=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p7pOAciyIbtbn8RwvwOe-6" target="p7pOAciyIbtbn8RwvwOe-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="1480" as="sourcePoint" />
