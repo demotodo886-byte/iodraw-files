@@ -270,7 +270,7 @@
             <mxGeometry x="446" y="1060" width="294" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="onStateChanged() -&amp;gt; SYNCED" tooltip="Please click here for details." id="-MAZSQyrFbKn_bs30kqK-4">
+        <UserObject label="onStateChanged() -&amp;gt; SYNCED" tooltip="" id="-MAZSQyrFbKn_bs30kqK-4">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingBottom=5;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="400" y="1260" width="294" height="30" as="geometry" />
           </mxCell>
