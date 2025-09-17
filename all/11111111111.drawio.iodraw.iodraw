@@ -195,7 +195,7 @@
         <mxCell id="p7pOAciyIbtbn8RwvwOe-72" value="" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="91" y="600" width="65" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-73">
+        <UserObject label="" tooltip="Please click here for details." link="./-device-connect-status/-c-o-n-n-e-c-t-e-d/index.html" id="p7pOAciyIbtbn8RwvwOe-73">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="-80" y="230" width="136" height="30" as="geometry" />
           </mxCell>
