@@ -255,7 +255,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="CurrentDeviceStatus == POWER_ON" tooltip="提示" link="./-device-power-status/-p-o-w-e-r_-o-n/index.html" id="X5GQSzS0mAL5g6uS3QZ5-3">
+        <UserObject label="CurrentDeviceStatus == POWER_ON" tooltip="Please click here for details." link="./-device-power-status/-p-o-w-e-r_-o-n/index.html" id="X5GQSzS0mAL5g6uS3QZ5-3">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#36393d;fillColor=#cce5ff;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="432.5" y="300" width="290.87" height="30.53" as="geometry" />
           </mxCell>
