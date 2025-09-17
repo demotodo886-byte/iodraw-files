@@ -84,7 +84,7 @@
             <mxPoint x="386" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="LOCKED" link="./-device-lock-status/-l-o-c-k-e-d_-w-i-t-h_-b-l-e/index.html" id="p7pOAciyIbtbn8RwvwOe-28">
+        <UserObject label="LOCKED" link="./-device-lock-status/-l-o-c-k-e-d_-w-i-t-h_-b-l-e/index.html" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-28">
           <mxCell style="rounded=1;whiteSpace=wrap;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fillColor=#647687;fontColor=#FFFFFF;strokeColor=#314354;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="326" y="810" width="120" height="60" as="geometry" />
           </mxCell>
