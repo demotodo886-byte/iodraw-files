@@ -205,7 +205,7 @@
             <mxGeometry x="451" y="700" width="294" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-79" value="CurrentDeviceStatus == UNLOCKED" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="p7pOAciyIbtbn8RwvwOe-79" value="CurrentDeviceStatus == LOCKED" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="70" y="770" width="294" height="30" as="geometry" />
         </mxCell>
         <UserObject label="onStateChanged() -&amp;gt; POWER_ON" link="./-device-power-status/-p-o-w-e-r_-o-n/index.html" id="p7pOAciyIbtbn8RwvwOe-80">
