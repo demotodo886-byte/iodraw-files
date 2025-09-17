@@ -182,9 +182,11 @@
         <mxCell id="p7pOAciyIbtbn8RwvwOe-72" value="" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="91" y="600" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-73" value="" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-9" y="230" width="65" height="30" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="./-device-connect-status/-c-o-n-n-e-c-t-e-d/index.html" id="p7pOAciyIbtbn8RwvwOe-73">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="-9" y="230" width="65" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-76" value="onStateChanged() -&amp;gt; UNLOCKED" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingBottom=5;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="880" width="294" height="30" as="geometry" />
         </mxCell>
