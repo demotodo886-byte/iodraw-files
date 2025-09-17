@@ -153,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-54" value="" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="435" width="181" height="30" as="geometry" />
+          <mxGeometry x="280" y="435" width="211" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-65" value="disconnect() or OS BLE OFF" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-380" y="660" width="261" height="50" as="geometry" />
@@ -186,7 +186,7 @@
         </mxCell>
         <UserObject label="" id="p7pOAciyIbtbn8RwvwOe-73">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-            <mxGeometry x="-9" y="230" width="65" height="30" as="geometry" />
+            <mxGeometry x="-80" y="230" width="136" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-76" value="onStateChanged() -&amp;gt; UNLOCKED" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingBottom=5;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -201,9 +201,11 @@
         <mxCell id="p7pOAciyIbtbn8RwvwOe-80" value="onStateChanged() -&amp;gt; POWER_ON" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#36393d;fillColor=#cce5ff;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="500" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-82" value="onStateChanged() -&amp;gt; POWER_OFF" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="480" y="500" width="300" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="onStateChanged() -&amp;gt; POWER_OFF" link="./-device-power-status/-p-o-w-e-r_-o-f-f/index.html" id="p7pOAciyIbtbn8RwvwOe-82">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="480" y="500" width="300" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <UserObject label="CurrentDeviceStatus == POWER_OFF" link="./-device-power-status/-p-o-w-e-r_-o-f-f/index.html" id="p7pOAciyIbtbn8RwvwOe-83">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#36393d;fillColor=#cce5ff;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="70" y="370" width="300" height="30" as="geometry" />
