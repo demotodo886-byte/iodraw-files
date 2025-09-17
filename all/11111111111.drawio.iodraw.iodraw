@@ -114,7 +114,7 @@
             <mxGeometry x="326" y="1300" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="UNLOCKED" link="./-device-lock-status/-u-n-l-o-c-k-e-d_-i-n-v-a-l-i-d/index.html" id="p7pOAciyIbtbn8RwvwOe-40">
+        <UserObject label="UNLOCKED" link="./-device-lock-status/-u-n-l-o-c-k-e-d_-i-n-v-a-l-i-d/index.html" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-40">
           <mxCell style="rounded=0;whiteSpace=wrap;fontStyle=4;fontSize=17;strokeColor=#66B2FF;fillColor=#66B2FF;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="-9" y="930" width="120" height="60" as="geometry" />
           </mxCell>
@@ -270,9 +270,6 @@
             <mxGeometry x="446" y="1060" width="294" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="X-2yTU9rsbHxQy3JTUIN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-MAZSQyrFbKn_bs30kqK-4" target="p7pOAciyIbtbn8RwvwOe-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <UserObject label="onStateChanged() -&amp;gt; SYNCED" link="./-device-sync-status/-s-y-n-c-e-d/index.html" tooltip="Please click here for details." id="-MAZSQyrFbKn_bs30kqK-4">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingBottom=5;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="400" y="1260" width="294" height="30" as="geometry" />
