@@ -55,7 +55,7 @@
         <mxCell id="p7pOAciyIbtbn8RwvwOe-21" value="" style="rounded=0;whiteSpace=wrap;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;glass=0;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-29" y="584" width="910" height="867" as="geometry" />
         </mxCell>
-        <UserObject label="POWER_ON" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-23">
+        <UserObject label="POWER_ON" tooltip="" id="p7pOAciyIbtbn8RwvwOe-23">
           <mxCell style="rounded=0;whiteSpace=wrap;fontStyle=4;fontSize=17;strokeColor=#66B2FF;fillColor=#66B2FF;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;glass=0;shadow=0;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="-29" y="584" width="120" height="60" as="geometry" />
           </mxCell>
@@ -223,7 +223,7 @@
             <mxGeometry y="500" width="300" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="onStateChanged() -&amp;gt; POWER_OFF" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-82">
+        <UserObject label="onStateChanged() -&amp;gt; POWER_OFF" tooltip="" id="p7pOAciyIbtbn8RwvwOe-82">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="480" y="500" width="300" height="60" as="geometry" />
           </mxCell>
