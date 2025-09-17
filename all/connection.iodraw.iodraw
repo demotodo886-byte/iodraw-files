@@ -208,12 +208,12 @@
             <mxGeometry x="400" y="880" width="294" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="CurrentDeviceStatus == UNLOCKED" link="./-device-lock-status/-u-n-l-o-c-k-e-d_-i-n-v-a-l-i-d/index.html" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-77">
+        <UserObject label="CurrentDeviceStatus == UNLOCKED" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-77">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="451" y="700" width="294" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="CurrentDeviceStatus == LOCKED" link="./-device-lock-status/-l-o-c-k-e-d_-w-i-t-h_-b-l-e/index.html" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-79">
+        <UserObject label="CurrentDeviceStatus == LOCKED" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-79">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="70" y="770" width="294" height="30" as="geometry" />
           </mxCell>
