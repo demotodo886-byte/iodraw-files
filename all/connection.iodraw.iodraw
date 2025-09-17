@@ -107,7 +107,7 @@
         <mxCell id="p7pOAciyIbtbn8RwvwOe-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontStyle=4;fontSize=17;flowAnimation=1;strokeWidth=3;textShadow=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p7pOAciyIbtbn8RwvwOe-38" target="p7pOAciyIbtbn8RwvwOe-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="NOT SYNCED" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-38">
+        <UserObject label="NOT SYNCED" tooltip="" id="p7pOAciyIbtbn8RwvwOe-38">
           <mxCell style="rounded=1;whiteSpace=wrap;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="326" y="1190" width="120" height="60" as="geometry" />
           </mxCell>
