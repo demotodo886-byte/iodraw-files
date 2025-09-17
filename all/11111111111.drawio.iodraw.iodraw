@@ -13,9 +13,11 @@
             <mxPoint x="385" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-5" value="DISCONNECTED" style="rounded=1;whiteSpace=wrap;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="303.5" y="110" width="165" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="DISCONNECTED" link="./-device-connect-status/-d-i-s-c-o-n-n-e-c-t/index.html" id="p7pOAciyIbtbn8RwvwOe-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="303.5" y="110" width="165" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-6" value="" style="whiteSpace=wrap;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-79" y="220" width="1040" height="1260" as="geometry" />
         </mxCell>
@@ -234,9 +236,6 @@
         </mxCell>
         <mxCell id="-MAZSQyrFbKn_bs30kqK-4" value="onStateChanged() -&amp;gt; SYNCED" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingBottom=5;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="1260" width="294" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="X-2yTU9rsbHxQy3JTUIN-2" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-349" y="200" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
