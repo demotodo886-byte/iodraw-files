@@ -223,7 +223,7 @@
             <mxGeometry y="500" width="300" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="onStateChanged() -&amp;gt; POWER_OFF" link="./-device-power-status/-p-o-w-e-r_-o-f-f/index.html" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-82">
+        <UserObject label="onStateChanged() -&amp;gt; POWER_OFF" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-82">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="480" y="500" width="300" height="60" as="geometry" />
           </mxCell>
