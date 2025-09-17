@@ -87,7 +87,7 @@
             <mxPoint x="386" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="LOCKED" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-28">
+        <UserObject label="LOCKED" tooltip="" id="p7pOAciyIbtbn8RwvwOe-28">
           <mxCell style="rounded=1;whiteSpace=wrap;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fillColor=#647687;fontColor=#FFFFFF;strokeColor=#314354;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="326" y="810" width="120" height="60" as="geometry" />
           </mxCell>
@@ -208,7 +208,7 @@
             <mxGeometry x="400" y="880" width="294" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="CurrentDeviceStatus == UNLOCKED" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-77">
+        <UserObject label="CurrentDeviceStatus == UNLOCKED" tooltip="" id="p7pOAciyIbtbn8RwvwOe-77">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="451" y="700" width="294" height="30" as="geometry" />
           </mxCell>
