@@ -21,9 +21,11 @@
         <mxCell id="p7pOAciyIbtbn8RwvwOe-6" value="" style="whiteSpace=wrap;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-79" y="220" width="1040" height="1260" as="geometry" />
         </mxCell>
-        <mxCell id="p7pOAciyIbtbn8RwvwOe-8" value="CONNECTED" style="rounded=0;whiteSpace=wrap;fillColor=#66B2FF;strokeColor=#66B2FF;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-79" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="CONNECTED" link="./-device-connect-status/-c-o-n-n-e-c-t-e-d/index.html" id="p7pOAciyIbtbn8RwvwOe-8">
+          <mxCell style="rounded=0;whiteSpace=wrap;fillColor=#66B2FF;strokeColor=#66B2FF;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="-79" y="220" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-9" value="" style="ellipse;whiteSpace=wrap;aspect=fixed;fillColor=#000000;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="356" y="230" width="60" height="60" as="geometry" />
         </mxCell>
