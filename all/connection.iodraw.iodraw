@@ -16,7 +16,7 @@
             <mxPoint x="385" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="DISCONNECTED" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-5">
+        <UserObject label="DISCONNECTED" tooltip="" id="p7pOAciyIbtbn8RwvwOe-5">
           <mxCell style="rounded=1;whiteSpace=wrap;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="303.5" y="110" width="165" height="60" as="geometry" />
           </mxCell>
