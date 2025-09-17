@@ -260,7 +260,7 @@
             <mxGeometry x="432.5" y="300" width="290.87" height="30.53" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="CurrentDeviceStatus == NOT SYNCED" tooltip="Please click here for details." id="-MAZSQyrFbKn_bs30kqK-1">
+        <UserObject label="CurrentDeviceStatus == NOT SYNCED" tooltip="" id="-MAZSQyrFbKn_bs30kqK-1">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="67" y="1139" width="294" height="30" as="geometry" />
           </mxCell>
