@@ -153,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-54" value="" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="426" y="435" width="65" height="30" as="geometry" />
+          <mxGeometry x="310" y="435" width="181" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-65" value="disconnect() or OS BLE OFF" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-380" y="660" width="261" height="50" as="geometry" />
