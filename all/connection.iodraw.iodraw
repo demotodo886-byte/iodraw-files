@@ -275,6 +275,9 @@
             <mxGeometry x="400" y="1260" width="294" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="-4XHDFu86BeIBQ80Njv6-3" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="720" width="52" height="61" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
