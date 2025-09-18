@@ -108,17 +108,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="NOT SYNCED" tooltip="" id="p7pOAciyIbtbn8RwvwOe-38">
-          <mxCell style="rounded=1;whiteSpace=wrap;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;fontStyle=0;fontSize=17;strokeWidth=3;textShadow=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="326" y="1190" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="SYNCED" tooltip="" id="p7pOAciyIbtbn8RwvwOe-39">
-          <mxCell style="rounded=1;whiteSpace=wrap;movable=1;backgroundOutline=0;glass=0;fillColor=#647687;strokeColor=#314354;fillStyle=auto;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontColor=#ffffff;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;movable=1;backgroundOutline=0;glass=0;fillColor=#647687;strokeColor=#314354;fillStyle=auto;fontStyle=0;fontSize=17;strokeWidth=3;textShadow=0;fontColor=#ffffff;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="326" y="1300" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="UNLOCKED" tooltip="" id="p7pOAciyIbtbn8RwvwOe-40">
-          <mxCell style="rounded=0;whiteSpace=wrap;fontStyle=4;fontSize=17;strokeColor=#66B2FF;fillColor=#66B2FF;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;fontStyle=0;fontSize=17;strokeColor=#66B2FF;fillColor=#66B2FF;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="-9" y="930" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -166,12 +166,12 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="" tooltip="" id="p7pOAciyIbtbn8RwvwOe-54">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="280" y="435" width="211" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="disconnect() or OS BLE OFF" link="./-b-l-e-device/disconnect.html" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-65">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Tahoma;labelBackgroundColor=none;html=1;flipV=1;rotation=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <UserObject label="disconnect() or OS BLE OFF" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-65">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=17;strokeWidth=3;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Tahoma;labelBackgroundColor=none;html=1;flipV=1;rotation=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="-50" y="100" width="260" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -182,7 +182,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="connect()" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-67">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="411" y="180" width="133.44" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -204,32 +204,32 @@
           </mxCell>
         </UserObject>
         <UserObject label="onStateChanged() -&amp;gt; UNLOCKED" tooltip="" id="p7pOAciyIbtbn8RwvwOe-76">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingBottom=5;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingBottom=5;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="400" y="880" width="294" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="CurrentDeviceStatus == UNLOCKED" tooltip="" id="p7pOAciyIbtbn8RwvwOe-77">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="451" y="700" width="294" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="CurrentDeviceStatus == LOCKED" tooltip="" id="p7pOAciyIbtbn8RwvwOe-79">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="70" y="770" width="294" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="onStateChanged() -&amp;gt; POWER_ON" tooltip="" id="p7pOAciyIbtbn8RwvwOe-80">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#36393d;fillColor=#cce5ff;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#36393d;fillColor=#cce5ff;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry y="500" width="300" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="onStateChanged() -&amp;gt; POWER_OFF" tooltip="" id="p7pOAciyIbtbn8RwvwOe-82">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="480" y="500" width="300" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="CurrentDeviceStatus == POWER_OFF" tooltip="" id="p7pOAciyIbtbn8RwvwOe-83">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#36393d;fillColor=#cce5ff;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#36393d;fillColor=#cce5ff;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="70" y="370" width="300" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -256,22 +256,22 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="CurrentDeviceStatus == POWER_ON" tooltip="" id="X5GQSzS0mAL5g6uS3QZ5-3">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#36393d;fillColor=#cce5ff;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#36393d;fillColor=#cce5ff;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="432.5" y="300" width="290.87" height="30.53" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="CurrentDeviceStatus == NOT SYNCED" tooltip="" id="-MAZSQyrFbKn_bs30kqK-1">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <UserObject label="CurrentDeviceStatus ==&amp;nbsp;NOT SYNCED" tooltip="" id="-MAZSQyrFbKn_bs30kqK-1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="67" y="1139" width="294" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="CurrentDeviceStatus == SYNCED" tooltip="" id="-MAZSQyrFbKn_bs30kqK-2">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="446" y="1060" width="294" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="onStateChanged() -&amp;gt; SYNCED" tooltip="" id="-MAZSQyrFbKn_bs30kqK-4">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingBottom=5;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <UserObject label="onStateChanged() -&amp;gt;&amp;nbsp;SYNCED" tooltip="" id="-MAZSQyrFbKn_bs30kqK-4">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingBottom=5;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="400" y="1260" width="294" height="30" as="geometry" />
           </mxCell>
         </UserObject>
