@@ -181,7 +181,7 @@
             <mxPoint x="386" y="216" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="connect()" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-67">
+        <UserObject label="connect()" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-67">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="411" y="180" width="133.44" height="30" as="geometry" />
           </mxCell>
@@ -275,6 +275,9 @@
             <mxGeometry x="400" y="1260" width="294" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="-4XHDFu86BeIBQ80Njv6-0" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
