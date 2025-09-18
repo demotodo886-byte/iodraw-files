@@ -56,7 +56,7 @@
           <mxGeometry x="-29" y="584" width="910" height="867" as="geometry" />
         </mxCell>
         <UserObject label="POWER_ON" tooltip="" id="p7pOAciyIbtbn8RwvwOe-23">
-          <mxCell style="rounded=0;whiteSpace=wrap;fontStyle=4;fontSize=17;strokeColor=#66B2FF;fillColor=#66B2FF;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;glass=0;shadow=0;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;fontStyle=0;fontSize=17;strokeColor=#66B2FF;fillColor=#66B2FF;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;glass=0;shadow=0;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="-29" y="584" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
