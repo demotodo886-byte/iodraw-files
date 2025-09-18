@@ -275,8 +275,8 @@
             <mxGeometry x="400" y="1260" width="294" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-4XHDFu86BeIBQ80Njv6-8" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-220" y="490" width="80" height="90" as="geometry" />
+        <mxCell id="-4XHDFu86BeIBQ80Njv6-9" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="420" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
