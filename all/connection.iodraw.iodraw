@@ -172,7 +172,7 @@
         </UserObject>
         <UserObject label="disconnect() or OS BLE OFF" link="./-b-l-e-device/disconnect.html" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-65">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Tahoma;labelBackgroundColor=none;html=1;flipV=1;rotation=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-            <mxGeometry x="-50" y="100" width="230" height="30" as="geometry" />
+            <mxGeometry x="-50" y="90" width="230" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="p7pOAciyIbtbn8RwvwOe-66" value="" style="endArrow=classic;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=4;fontSize=17;flowAnimation=1;strokeWidth=3;textShadow=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontFamily=Tahoma;spacingLeft=50;spacingRight=8;targetPerimeterSpacing=0;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p7pOAciyIbtbn8RwvwOe-5" edge="1">
@@ -181,7 +181,7 @@
             <mxPoint x="386" y="216" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="connect()" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-67">
+        <UserObject label="connect()" tooltip="Please click here for details." id="p7pOAciyIbtbn8RwvwOe-67">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="411" y="180" width="133.44" height="30" as="geometry" />
           </mxCell>
