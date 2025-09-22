@@ -71,7 +71,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="pauseRiding()" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-25">
+        <UserObject label="stopRiding()" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-25">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=14;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
             <mxGeometry x="350" y="350" width="110" height="20" as="geometry" />
           </mxCell>
