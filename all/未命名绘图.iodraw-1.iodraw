@@ -8,7 +8,7 @@
           <mxGeometry x="-10" y="150" width="790" height="260" as="geometry" />
         </mxCell>
         <UserObject label="Not Ride" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-2">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=14;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=14;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
             <mxGeometry x="30" y="260" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
