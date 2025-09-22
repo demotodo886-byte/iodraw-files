@@ -43,7 +43,7 @@
         </mxCell>
         <UserObject label="pauseRiding()" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-21">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=17;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
-            <mxGeometry x="480" y="250" width="100" height="20" as="geometry" />
+            <mxGeometry x="480" y="240" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
