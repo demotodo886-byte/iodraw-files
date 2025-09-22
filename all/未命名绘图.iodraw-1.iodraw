@@ -63,11 +63,11 @@
         </UserObject>
         <mxCell id="wvNlFpK762SuZYRdi9TN-24" value="" style="endArrow=classic;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=4;fontSize=13;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="270" as="sourcePoint" />
-            <mxPoint x="400" y="270" as="targetPoint" />
+            <mxPoint x="630" y="410" as="sourcePoint" />
+            <mxPoint x="340" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="690" y="200" />
-              <mxPoint x="400" y="200" />
+              <mxPoint x="630" y="340" />
+              <mxPoint x="340" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
