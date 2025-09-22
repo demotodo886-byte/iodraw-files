@@ -5,7 +5,7 @@
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="wvNlFpK762SuZYRdi9TN-3" value="" style="whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=#DAE8FC;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="-10" y="150" width="930" height="260" as="geometry" />
+          <mxGeometry x="-10" y="150" width="990" height="260" as="geometry" />
         </mxCell>
         <UserObject label="" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-2">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=17;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="wvNlFpK762SuZYRdi9TN-19" value="" style="endArrow=classic;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=4;fontSize=17;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="279.5" as="sourcePoint" />
-            <mxPoint x="800" y="280" as="targetPoint" />
+            <mxPoint x="770" y="280" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
