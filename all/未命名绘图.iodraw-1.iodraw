@@ -4,37 +4,37 @@
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="wvNlFpK762SuZYRdi9TN-3" value="" style="whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=#DAE8FC;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=4;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="wvNlFpK762SuZYRdi9TN-3" value="" style="whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=#DAE8FC;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-10" y="150" width="790" height="260" as="geometry" />
         </mxCell>
         <UserObject label="Not Ride" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-2">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=13;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=13;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
             <mxGeometry x="30" y="260" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Ride in Progress&lt;/span&gt;" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-7">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=14;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=14;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
             <mxGeometry x="320" y="260" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Ride Paused&lt;/span&gt;" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-8">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=14;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=14;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
             <mxGeometry x="610" y="260" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="startRiding()" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-16">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=14;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
             <mxGeometry x="190" y="250" width="100" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wvNlFpK762SuZYRdi9TN-17" value="" style="endArrow=classic;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=4;fontSize=13;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" edge="1" parent="1" source="wvNlFpK762SuZYRdi9TN-2" target="wvNlFpK762SuZYRdi9TN-7">
+        <mxCell id="wvNlFpK762SuZYRdi9TN-17" value="" style="endArrow=classic;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontSize=13;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" edge="1" parent="1" source="wvNlFpK762SuZYRdi9TN-2" target="wvNlFpK762SuZYRdi9TN-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="426" y="345" as="sourcePoint" />
             <mxPoint x="792" y="586" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wvNlFpK762SuZYRdi9TN-18" value="" style="endArrow=classic;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=4;fontSize=13;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="wvNlFpK762SuZYRdi9TN-8">
+        <mxCell id="wvNlFpK762SuZYRdi9TN-18" value="" style="endArrow=classic;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0;fontSize=13;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="wvNlFpK762SuZYRdi9TN-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="279.5" as="sourcePoint" />
             <mxPoint x="560" y="280" as="targetPoint" />
@@ -42,11 +42,11 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="pauseRiding()" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-21">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=14;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
             <mxGeometry x="480" y="250" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wvNlFpK762SuZYRdi9TN-22" value="" style="endArrow=classic;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=4;fontSize=13;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wvNlFpK762SuZYRdi9TN-8" target="wvNlFpK762SuZYRdi9TN-7">
+        <mxCell id="wvNlFpK762SuZYRdi9TN-22" value="" style="endArrow=classic;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=0;fontSize=13;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wvNlFpK762SuZYRdi9TN-8" target="wvNlFpK762SuZYRdi9TN-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="230" as="sourcePoint" />
             <mxPoint x="820" y="230.5" as="targetPoint" />
@@ -57,11 +57,11 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="resumeRiding()" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-23">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=14;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
             <mxGeometry x="470" y="160" width="130" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wvNlFpK762SuZYRdi9TN-24" value="" style="endArrow=classic;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=4;fontSize=13;flowAnimation=0;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#B23617;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryX=0.429;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wvNlFpK762SuZYRdi9TN-8" target="wvNlFpK762SuZYRdi9TN-2">
+        <mxCell id="wvNlFpK762SuZYRdi9TN-24" value="" style="endArrow=classic;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0;fontSize=13;flowAnimation=0;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#B23617;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryX=0.429;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wvNlFpK762SuZYRdi9TN-8" target="wvNlFpK762SuZYRdi9TN-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="410" as="sourcePoint" />
             <mxPoint x="340" y="410" as="targetPoint" />
@@ -72,11 +72,11 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="stopRiding()" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-25">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=14;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
             <mxGeometry x="350" y="350" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wvNlFpK762SuZYRdi9TN-26" value="" style="endArrow=classic;rounded=1;exitX=0.371;exitY=-0.075;exitDx=0;exitDy=0;entryX=0.4;entryY=-0.05;entryDx=0;entryDy=0;fontStyle=4;fontSize=13;flowAnimation=0;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#B23617;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="wvNlFpK762SuZYRdi9TN-7" target="wvNlFpK762SuZYRdi9TN-2">
+        <mxCell id="wvNlFpK762SuZYRdi9TN-26" value="" style="endArrow=classic;rounded=1;exitX=0.371;exitY=-0.075;exitDx=0;exitDy=0;entryX=0.4;entryY=-0.05;entryDx=0;entryDy=0;fontStyle=0;fontSize=13;flowAnimation=0;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#B23617;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="wvNlFpK762SuZYRdi9TN-7" target="wvNlFpK762SuZYRdi9TN-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="290" as="sourcePoint" />
             <mxPoint x="330" y="290" as="targetPoint" />
@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="stopRiding()" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-27">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=14;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
             <mxGeometry x="175" y="160" width="130" height="20" as="geometry" />
           </mxCell>
         </UserObject>
