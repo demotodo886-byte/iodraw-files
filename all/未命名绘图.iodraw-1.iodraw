@@ -24,7 +24,7 @@
         </UserObject>
         <UserObject label="startRiding()" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-16">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=13;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
-            <mxGeometry x="190" y="240" width="100" height="30" as="geometry" />
+            <mxGeometry x="190" y="250" width="100" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="wvNlFpK762SuZYRdi9TN-17" value="" style="endArrow=classic;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=4;fontSize=13;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" edge="1" parent="1" source="wvNlFpK762SuZYRdi9TN-2" target="wvNlFpK762SuZYRdi9TN-7">
@@ -43,7 +43,7 @@
         </mxCell>
         <UserObject label="pauseRiding()" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-21">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4;fontSize=13;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
-            <mxGeometry x="480" y="240" width="110" height="30" as="geometry" />
+            <mxGeometry x="480" y="250" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
