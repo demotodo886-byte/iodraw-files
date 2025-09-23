@@ -53,7 +53,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jusX840LMHRJJE-ujWZ4-8" value="&lt;strong style=&quot;font-family: Tahoma; font-size: 14px; white-space-collapse: preserve;&quot;&gt;Unfinished Riding Records Detected&lt;/strong&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#76608A;" vertex="1" parent="1">
+        <mxCell id="jusX840LMHRJJE-ujWZ4-8" value="&lt;strong style=&quot;font-family: Tahoma; font-size: 14px; white-space-collapse: preserve;&quot;&gt;Unfinished Riding Records Detected&lt;/strong&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#76608A;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="880" y="420" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
