@@ -4,21 +4,21 @@
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="wvNlFpK762SuZYRdi9TN-3" value="" style="whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=#DAE8FC;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=4;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="wvNlFpK762SuZYRdi9TN-3" value="" style="whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=#DAE8FC;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=4;fontSize=13;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="-10" y="150" width="790" height="260" as="geometry" />
         </mxCell>
         <UserObject label="Not Ride" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-2">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=13;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=13;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
             <mxGeometry x="30" y="260" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 13px; text-align: left;&quot;&gt;Ride in Progress&lt;/span&gt;" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-7">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=13;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
+        <UserObject label="&lt;span style=&quot;color: rgb(15, 17, 21); font-size: 13px; text-align: left;&quot;&gt;Ride in Progress&lt;/span&gt;" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-7">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=13;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
             <mxGeometry x="320" y="260" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 13px; text-align: left;&quot;&gt;Ride Paused&lt;/span&gt;" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-8">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=13;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
+        <UserObject label="&lt;span style=&quot;color: rgb(15, 17, 21); font-size: 13px; text-align: left;&quot;&gt;Ride Paused&lt;/span&gt;" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-8">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=13;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
             <mxGeometry x="610" y="260" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
