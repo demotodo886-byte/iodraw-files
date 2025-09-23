@@ -58,9 +58,16 @@
         </mxCell>
         <UserObject label="&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;strong&gt;Resume Recording with Same Bicycle&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;" tooltip="Please click here for details." id="jusX840LMHRJJE-ujWZ4-9">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=14;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
-            <mxGeometry x="880" y="600" width="150" height="40" as="geometry" />
+            <mxGeometry x="880.01" y="550" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="jusX840LMHRJJE-ujWZ4-10" value="" style="endArrow=classic;rounded=1;fontStyle=5;fontSize=13;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryX=0.5;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="965" y="311" as="sourcePoint" />
+            <mxPoint x="965" y="394" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
