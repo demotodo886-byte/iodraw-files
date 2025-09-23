@@ -53,7 +53,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jusX840LMHRJJE-ujWZ4-18" value="&lt;div data-zone-id=&quot;0&quot; data-line-index=&quot;0&quot; data-line=&quot;true&quot; style=&quot;white-space: pre-wrap;&quot;&gt;Is Continuing Recording?&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#F5F5F5;" vertex="1" connectable="0" parent="jusX840LMHRJJE-ujWZ4-7">
+        <mxCell id="jusX840LMHRJJE-ujWZ4-18" value="&lt;div data-zone-id=&quot;0&quot; data-line-index=&quot;0&quot; data-line=&quot;true&quot; style=&quot;white-space: pre-wrap; font-size: 14px;&quot;&gt;Is Continuing Recording?&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#F5F5F5;fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="jusX840LMHRJJE-ujWZ4-7">
           <mxGeometry x="-0.079" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
