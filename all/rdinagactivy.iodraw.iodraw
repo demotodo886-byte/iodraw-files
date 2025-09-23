@@ -41,7 +41,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;span style=&quot;font-size: 13px; white-space-collapse: preserve; background-color: initial;&quot;&gt;checkUnfinishedRideRecord&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;()&lt;/span&gt;" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-21">
+        <UserObject label="&lt;span style=&quot;font-size: 13px; white-space-collapse: preserve; background-color: initial;&quot;&gt;checkUnfinishedRideRecord&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;()&lt;/span&gt;" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-21">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
             <mxGeometry x="610" y="250" width="220" height="20" as="geometry" />
           </mxCell>
