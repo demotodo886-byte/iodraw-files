@@ -14,7 +14,7 @@
         </UserObject>
         <UserObject label="&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;strong&gt;App Restart&lt;/strong&gt;&lt;/div&gt;" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-7">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=14;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
-            <mxGeometry x="430" y="260" width="140" height="40" as="geometry" />
+            <mxGeometry x="445" y="260" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;strong&gt;Unfinished Riding Records Detected&lt;/strong&gt;&lt;/div&gt;" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-8">
@@ -75,10 +75,10 @@
         </mxCell>
         <UserObject label="&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;strong&gt;Resume Recording with Same Bicycle&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;" tooltip="Please click here for details." id="jusX840LMHRJJE-ujWZ4-13">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=14;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
-            <mxGeometry x="420" y="400" width="150" height="40" as="geometry" />
+            <mxGeometry x="440" y="400" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="jusX840LMHRJJE-ujWZ4-16" value="" style="endArrow=classic;rounded=1;fontStyle=5;fontSize=13;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.02;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jusX840LMHRJJE-ujWZ4-8">
+        <mxCell id="jusX840LMHRJJE-ujWZ4-16" value="" style="endArrow=classic;rounded=1;fontStyle=5;fontSize=13;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.02;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jusX840LMHRJJE-ujWZ4-8" target="jusX840LMHRJJE-ujWZ4-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="964" y="468" as="sourcePoint" />
             <mxPoint x="965" y="560" as="targetPoint" />
