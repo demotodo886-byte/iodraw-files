@@ -61,16 +61,6 @@
             <mxGeometry x="470" y="160" width="130" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wvNlFpK762SuZYRdi9TN-24" value="" style="endArrow=classic;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=4;fontSize=13;flowAnimation=0;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#B23617;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryX=0.429;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wvNlFpK762SuZYRdi9TN-8" target="wvNlFpK762SuZYRdi9TN-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="410" as="sourcePoint" />
-            <mxPoint x="340" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="380" />
-              <mxPoint x="90" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <UserObject label="stopRiding()" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-25">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=13;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
             <mxGeometry x="350" y="350" width="110" height="20" as="geometry" />
