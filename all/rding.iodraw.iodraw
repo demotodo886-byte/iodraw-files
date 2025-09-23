@@ -78,7 +78,7 @@
         </UserObject>
         <mxCell id="wvNlFpK762SuZYRdi9TN-26" value="" style="endArrow=classic;rounded=1;entryX=0.4;entryY=-0.05;entryDx=0;entryDy=0;fontStyle=0;fontSize=13;flowAnimation=0;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#B23617;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryPerimeter=0;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;endSize=6;" parent="1" target="wvNlFpK762SuZYRdi9TN-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="240" as="sourcePoint" />
+            <mxPoint x="372" y="250" as="sourcePoint" />
             <mxPoint x="330" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="372" y="190" />
