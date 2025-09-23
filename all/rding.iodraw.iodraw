@@ -43,7 +43,7 @@
         </mxCell>
         <UserObject label="&lt;span style=&quot;font-size: 13px; white-space-collapse: preserve; background-color: initial;&quot;&gt;checkUnfinishedRideRecord&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;()&lt;/span&gt;" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-21">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=14;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
-            <mxGeometry x="620" y="250" width="200" height="20" as="geometry" />
+            <mxGeometry x="610" y="250" width="220" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="wvNlFpK762SuZYRdi9TN-22" value="" style="endArrow=classic;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=4;fontSize=13;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wvNlFpK762SuZYRdi9TN-8" target="wvNlFpK762SuZYRdi9TN-7" edge="1">
@@ -66,7 +66,7 @@
             <mxPoint x="740" y="410" as="sourcePoint" />
             <mxPoint x="165" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="790" y="380" />
+              <mxPoint x="960" y="390" />
               <mxPoint x="165" y="380" />
             </Array>
           </mxGeometry>
