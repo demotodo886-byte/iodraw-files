@@ -46,14 +46,14 @@
             <mxGeometry x="610" y="250" width="220" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="jusX840LMHRJJE-ujWZ4-7" value="" style="endArrow=classic;rounded=1;fontStyle=5;fontSize=13;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="jusX840LMHRJJE-ujWZ4-7" value="" style="endArrow=classic;rounded=1;fontStyle=5;fontSize=13;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryX=0.5;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jusX840LMHRJJE-ujWZ4-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="955" y="301" as="sourcePoint" />
             <mxPoint x="955" y="390" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jusX840LMHRJJE-ujWZ4-8" value="&lt;strong style=&quot;font-family: Tahoma; font-size: 14px; white-space-collapse: preserve;&quot;&gt;Unfinished Riding Records Detected&lt;/strong&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#76608A;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="jusX840LMHRJJE-ujWZ4-8" value="&lt;strong style=&quot;font-family: Tahoma; font-size: 14px; white-space-collapse: preserve;&quot;&gt;Unfinished Riding Records Detected&lt;/strong&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#76608A;strokeColor=#432D57;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="880" y="420" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
