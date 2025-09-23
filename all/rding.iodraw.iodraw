@@ -46,22 +46,6 @@
             <mxGeometry x="610" y="250" width="220" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wvNlFpK762SuZYRdi9TN-26" value="" style="endArrow=classic;rounded=1;exitX=0.371;exitY=-0.075;exitDx=0;exitDy=0;fontStyle=4;fontSize=13;flowAnimation=0;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#B23617;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;exitPerimeter=0;" parent="1" source="wvNlFpK762SuZYRdi9TN-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="290" as="sourcePoint" />
-            <mxPoint x="166" y="258" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="482" y="190" />
-              <mxPoint x="350" y="190" />
-              <mxPoint x="166" y="190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="stopRiding()" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-27">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=14;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
-            <mxGeometry x="285" y="160" width="130" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
