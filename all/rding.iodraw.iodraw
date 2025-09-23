@@ -12,7 +12,7 @@
             <mxGeometry x="30" y="260" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;strong&gt;App Restart&lt;/strong&gt;&lt;/div&gt;" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-7">
+        <UserObject label="&lt;span style=&quot;color: rgb(15, 17, 21); font-size: 14px; text-align: left;&quot;&gt;Ride in Progress&lt;/span&gt;" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-7">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=14;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
             <mxGeometry x="320" y="260" width="140" height="40" as="geometry" />
           </mxCell>
