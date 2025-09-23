@@ -73,6 +73,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;strong&gt;Resume Recording with Same Bicycle&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;" tooltip="Please click here for details." id="jusX840LMHRJJE-ujWZ4-13">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=14;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+            <mxGeometry x="890.01" y="560" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
