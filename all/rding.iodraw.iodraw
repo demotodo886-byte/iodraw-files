@@ -17,7 +17,7 @@
             <mxGeometry x="430" y="260" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span style=&quot;color: rgb(15, 17, 21); font-size: 14px; text-align: left;&quot;&gt;Ride Paused&lt;/span&gt;" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-8">
+        <UserObject label="&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;strong&gt;Unfinished Riding Records Detected&lt;/strong&gt;&lt;/div&gt;" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-8">
           <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#36393d;fillColor=#cce5ff;spacingTop=0;labelBorderColor=none;fontSize=14;strokeWidth=3;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
             <mxGeometry x="890" y="260" width="140" height="40" as="geometry" />
           </mxCell>
@@ -46,27 +46,12 @@
             <mxGeometry x="610" y="250" width="220" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wvNlFpK762SuZYRdi9TN-22" value="" style="endArrow=classic;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=4;fontSize=13;flowAnimation=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wvNlFpK762SuZYRdi9TN-8" target="wvNlFpK762SuZYRdi9TN-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="780" y="230" as="sourcePoint" />
-            <mxPoint x="930" y="230.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="790" y="190" />
-              <mxPoint x="500" y="190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="resumeRiding()" link="./-b-l-e-device/connect.html" tooltip="Please click here for details." id="wvNlFpK762SuZYRdi9TN-23">
-          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=14;strokeWidth=3;textShadow=0;strokeColor=#6C8EBF;fillColor=#DAE8FC;fontFamily=Tahoma;fontColor=#000000;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
-            <mxGeometry x="580" y="160" width="130" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="wvNlFpK762SuZYRdi9TN-24" value="" style="endArrow=classic;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=4;fontSize=13;flowAnimation=0;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#B23617;curved=0;textShadow=0;fontFamily=Tahoma;labelBackgroundColor=none;html=1;" parent="1" source="wvNlFpK762SuZYRdi9TN-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="410" as="sourcePoint" />
             <mxPoint x="165" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="960" y="390" />
+              <mxPoint x="960" y="380" />
               <mxPoint x="165" y="380" />
             </Array>
           </mxGeometry>
